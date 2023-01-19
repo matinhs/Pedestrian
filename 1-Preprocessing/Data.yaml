@@ -1,0 +1,8 @@
+path: /content/yolov5/Data  # dataset root dir
+train: images/train
+val: images/train
+test:  # test images (optional)
+
+# Classes
+names:
+  0: pedestrian
